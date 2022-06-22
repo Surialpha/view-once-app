@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/view-once-app/static/css/main.31d6cfe0.css",
+    "main.js": "/view-once-app/static/js/main.579a7a5a.js",
+    "index.html": "/view-once-app/index.html",
+    "main.579a7a5a.js.map": "/view-once-app/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
